@@ -23,17 +23,23 @@ The OSINT-SpiderFoot project aimed to set up and use this open source intelligen
 2. I have downloaded the zip file to the Kali Linux VM.
 
 <img width="1317" height="656" alt="image" src="https://github.com/user-attachments/assets/1dec0dc1-e5f8-4b28-90d4-dbe786f72734" />
-*Ref 1: SpiderFoot*
 
-3. I have extracted the files from the zip file in the /Downloads directory and run the sp.py file to install the SpiderFoot.
+3. I have extracted the files from the zip file in the /Downloads directory.
 
 <img width="576" height="216" alt="image" src="https://github.com/user-attachments/assets/52f125a7-fef2-4ee6-8e82-1542725123c9" />
-*Ref 2: Extractio of SpiderFoot files* 
 
-drag & drop screenshots here or use imgur and reference them using imgsrc
+4. I have initiated the SpiderFoot tool. It is very important to use the correct options with the command.
 
-Every screenshot should have some text explaining what the screenshot is about.
+<img width="1773" height="636" alt="image" src="https://github.com/user-attachments/assets/037c1173-b7ee-49bf-b6bc-af6af37d92bb" />
 
-Example below.
+5. I have opened the provided URL in web browser, selected 'New Scan' from the menu, set up 'Scan Name' and 'Scan Target' and started scan. We can select from range of different target types i.e. domain name, IPv4 address, IPv6 address, hostname, subnet, e-mail address, phone number, human name, username, etc. 
 
-*Ref 1: Network Diagram*
+<img width="1277" height="858" alt="image" src="https://github.com/user-attachments/assets/c7993bf0-6652-45e3-84c1-2c095507d90b" />
+
+6. Scan run for couple of minutes before returning the results.
+
+<img width="1511" height="891" alt="image" src="https://github.com/user-attachments/assets/51673f6a-d2d1-4a7a-bf42-24e8c8acb2d1" />
+
+In conclusion email in question had total of 15 hits across multiple sites with one distinct correlation showing that email might have been hacked on two different application domains.
+
+
