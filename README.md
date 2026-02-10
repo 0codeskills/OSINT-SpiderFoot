@@ -18,6 +18,18 @@ The OSINT-SpiderFoot project aimed to set up and use this open source intelligen
 - SpiderFoot to map threat intelligence data.
 
 ## Steps
+
+1. I went to google.com and searched for SpiderFoot. Second result took me to a github reposytory of <a href="https://github.com/smicallef/spiderfoot">SpiderFoot</a>.
+2. I have downloaded the zip file to the Kali Linux VM.
+
+<img width="1317" height="656" alt="image" src="https://github.com/user-attachments/assets/1dec0dc1-e5f8-4b28-90d4-dbe786f72734" />
+*Ref 1: SpiderFoot*
+
+3. I have extracted the files from the zip file in the /Downloads directory and run the sp.py file to install the SpiderFoot.
+
+<img width="576" height="216" alt="image" src="https://github.com/user-attachments/assets/52f125a7-fef2-4ee6-8e82-1542725123c9" />
+*Ref 2: Extractio of SpiderFoot files* 
+
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
