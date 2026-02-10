@@ -1,1 +1,1 @@
-# OSINT---SpiderFoot-
+# OSINT-SpiderFoot
