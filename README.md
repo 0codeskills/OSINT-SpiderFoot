@@ -14,7 +14,7 @@ The OSINT-SpiderFoot project aimed to set up and use this open source intelligen
 ### Tools Used
 
 - Kali Linux virtual machine as controlled environment.
-- Linux terminal to intall and run cybersecurity tools.
+- Linux terminal to install and run cybersecurity tools.
 - SpiderFoot to map threat intelligence data.
 
 ## Steps
